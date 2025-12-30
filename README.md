@@ -10,4 +10,10 @@ Aquí puedes observar como funciona el conversor a través de capturas de pantal
 ![capturaProceso](assets/src/capturaProceso.png)
 
 ### Video demostrativo del funcionamiento del programa:
-<video src="https://github.com/MilagrosSerrano/conversorMonedas/blob/main/assets/src/usoConversor.mp4" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/969e9a86-bc00-4e1b-8faf-e719548deb23" controls width="600"></video>
+
+
+
+
+
+
