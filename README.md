@@ -10,8 +10,7 @@ Aquí puedes observar como funciona el conversor a través de capturas de pantal
 ![capturaProceso](assets/src/capturaProceso.png)
 
 ### Video demostrativo del funcionamiento del programa:
-![usoConversor](https://github.com/user-attachments/assets/d1089a13-a477-4cf1-9399-fe0b20fb5508)
-
+![usoConversor](https://github.com/user-attachments/assets/20dbc5b0-b51d-46ee-81c6-3641d585b6ba)
 
 
 
