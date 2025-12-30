@@ -10,4 +10,4 @@ Aquí puedes observar como funciona el conversor a través de capturas de pantal
 ![capturaProceso](assets/src/capturaProceso.png)
 
 ### Video demostrativo del funcionamiento del programa:
-![usoConversor](assets/src/usoConversor.mp4)
+![usoConversor](assets/src/usoConversor.mp4))
